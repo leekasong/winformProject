@@ -1,0 +1,9 @@
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\obj\Debug\FileLoad.cs.csprojResolveAssemblyReference.cache
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\obj\Debug\FileLoad.cs.FileLoad.resources
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\obj\Debug\FileLoad.cs.Properties.Resources.resources
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\obj\Debug\FileLoad.cs.csproj.GenerateResource.Cache
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\bin\Debug\FileLoad.cs.exe.config
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\bin\Debug\FileLoad.cs.exe
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\bin\Debug\FileLoad.cs.pdb
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\obj\Debug\FileLoad.cs.exe
+E:\workspace\winform\mook_FileCopyMove\FileLoad.cs\obj\Debug\FileLoad.cs.pdb

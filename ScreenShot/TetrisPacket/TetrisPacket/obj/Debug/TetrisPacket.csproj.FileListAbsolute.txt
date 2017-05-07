@@ -1,0 +1,4 @@
+E:\workspace\winform\ScreenShot\TetrisPacket\TetrisPacket\bin\Debug\TetrisPacket.dll
+E:\workspace\winform\ScreenShot\TetrisPacket\TetrisPacket\bin\Debug\TetrisPacket.pdb
+E:\workspace\winform\ScreenShot\TetrisPacket\TetrisPacket\obj\Debug\TetrisPacket.dll
+E:\workspace\winform\ScreenShot\TetrisPacket\TetrisPacket\obj\Debug\TetrisPacket.pdb

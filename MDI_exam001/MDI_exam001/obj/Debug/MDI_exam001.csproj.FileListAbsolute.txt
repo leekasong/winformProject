@@ -1,0 +1,10 @@
+E:\workspace\winform\MDI_exam001\MDI_exam001\bin\Debug\MDI_exam001.exe.config
+E:\workspace\winform\MDI_exam001\MDI_exam001\bin\Debug\MDI_exam001.exe
+E:\workspace\winform\MDI_exam001\MDI_exam001\bin\Debug\MDI_exam001.pdb
+E:\workspace\winform\MDI_exam001\MDI_exam001\obj\Debug\MDI_exam001.csprojResolveAssemblyReference.cache
+E:\workspace\winform\MDI_exam001\MDI_exam001\obj\Debug\MDI_exam001.Form1.resources
+E:\workspace\winform\MDI_exam001\MDI_exam001\obj\Debug\MDI_exam001.Properties.Resources.resources
+E:\workspace\winform\MDI_exam001\MDI_exam001\obj\Debug\MDI_exam001.csproj.GenerateResource.Cache
+E:\workspace\winform\MDI_exam001\MDI_exam001\obj\Debug\MDI_exam001.exe
+E:\workspace\winform\MDI_exam001\MDI_exam001\obj\Debug\MDI_exam001.pdb
+E:\workspace\winform\MDI_exam001\MDI_exam001\obj\Debug\MDI_exam001.Child.resources

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFinder_exam001", "FileFinder_exam001\FileFinder_exam001.csproj", "{E731970F-0D0E-46AA-956C-0524E8E0F4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E731970F-0D0E-46AA-956C-0524E8E0F4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E731970F-0D0E-46AA-956C-0524E8E0F4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E731970F-0D0E-46AA-956C-0524E8E0F4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E731970F-0D0E-46AA-956C-0524E8E0F4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

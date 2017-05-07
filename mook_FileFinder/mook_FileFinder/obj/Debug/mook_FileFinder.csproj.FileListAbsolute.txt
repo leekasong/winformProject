@@ -1,0 +1,9 @@
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\bin\Debug\mook_FileFinder.exe.config
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\bin\Debug\mook_FileFinder.exe
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\bin\Debug\mook_FileFinder.pdb
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\obj\Debug\mook_FileFinder.csprojResolveAssemblyReference.cache
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\obj\Debug\mook_FileFinder.Form1.resources
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\obj\Debug\mook_FileFinder.Properties.Resources.resources
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\obj\Debug\mook_FileFinder.csproj.GenerateResource.Cache
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\obj\Debug\mook_FileFinder.exe
+E:\workspace\winform\mook_FileFinder\mook_FileFinder\obj\Debug\mook_FileFinder.pdb

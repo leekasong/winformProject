@@ -1,0 +1,1 @@
+E:\workspace\winform\PacketServer_002\PacketServer_002\obj\Debug\PacketServer_002.csprojResolveAssemblyReference.cache

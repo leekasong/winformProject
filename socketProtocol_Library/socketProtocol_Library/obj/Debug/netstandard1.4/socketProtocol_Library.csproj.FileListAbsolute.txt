@@ -1,0 +1,7 @@
+E:\workspace\winform\socketProtocol_Library\socketProtocol_Library\bin\Debug\netstandard1.4\socketProtocol_Library.deps.json
+E:\workspace\winform\socketProtocol_Library\socketProtocol_Library\bin\Debug\netstandard1.4\socketProtocol_Library.dll
+E:\workspace\winform\socketProtocol_Library\socketProtocol_Library\bin\Debug\netstandard1.4\socketProtocol_Library.pdb
+E:\workspace\winform\socketProtocol_Library\socketProtocol_Library\obj\Debug\netstandard1.4\socketProtocol_Library.csprojResolveAssemblyReference.cache
+E:\workspace\winform\socketProtocol_Library\socketProtocol_Library\obj\Debug\netstandard1.4\socketProtocol_Library.AssemblyInfo.cs
+E:\workspace\winform\socketProtocol_Library\socketProtocol_Library\obj\Debug\netstandard1.4\socketProtocol_Library.dll
+E:\workspace\winform\socketProtocol_Library\socketProtocol_Library\obj\Debug\netstandard1.4\socketProtocol_Library.pdb

@@ -1,0 +1,9 @@
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\bin\Debug\mook_FileWriter.exe.config
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\bin\Debug\mook_FileWriter.exe
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\bin\Debug\mook_FileWriter.pdb
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\obj\Debug\mook_FileWriter.csprojResolveAssemblyReference.cache
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\obj\Debug\mook_FileWriter.Form1.resources
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\obj\Debug\mook_FileWriter.Properties.Resources.resources
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\obj\Debug\mook_FileWriter.csproj.GenerateResource.Cache
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\obj\Debug\mook_FileWriter.exe
+E:\workspace\winform\mook_FileWriter\mook_FileWriter\obj\Debug\mook_FileWriter.pdb

@@ -1,0 +1,5 @@
+E:\workspace\winform\socketProtocol_Library2\socketProtocol_Library2\bin\Debug\socketProtocol_Library2.dll
+E:\workspace\winform\socketProtocol_Library2\socketProtocol_Library2\bin\Debug\socketProtocol_Library2.pdb
+E:\workspace\winform\socketProtocol_Library2\socketProtocol_Library2\obj\Debug\socketProtocol_Library2.csprojResolveAssemblyReference.cache
+E:\workspace\winform\socketProtocol_Library2\socketProtocol_Library2\obj\Debug\socketProtocol_Library2.dll
+E:\workspace\winform\socketProtocol_Library2\socketProtocol_Library2\obj\Debug\socketProtocol_Library2.pdb

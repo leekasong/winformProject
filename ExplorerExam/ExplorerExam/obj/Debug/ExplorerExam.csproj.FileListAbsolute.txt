@@ -1,0 +1,9 @@
+E:\workspace\winform\ExplorerExam\ExplorerExam\bin\Debug\ExplorerExam.exe.config
+E:\workspace\winform\ExplorerExam\ExplorerExam\bin\Debug\ExplorerExam.exe
+E:\workspace\winform\ExplorerExam\ExplorerExam\bin\Debug\ExplorerExam.pdb
+E:\workspace\winform\ExplorerExam\ExplorerExam\obj\Debug\ExplorerExam.csprojResolveAssemblyReference.cache
+E:\workspace\winform\ExplorerExam\ExplorerExam\obj\Debug\ExplorerExam.Form1.resources
+E:\workspace\winform\ExplorerExam\ExplorerExam\obj\Debug\ExplorerExam.Properties.Resources.resources
+E:\workspace\winform\ExplorerExam\ExplorerExam\obj\Debug\ExplorerExam.csproj.GenerateResource.Cache
+E:\workspace\winform\ExplorerExam\ExplorerExam\obj\Debug\ExplorerExam.exe
+E:\workspace\winform\ExplorerExam\ExplorerExam\obj\Debug\ExplorerExam.pdb

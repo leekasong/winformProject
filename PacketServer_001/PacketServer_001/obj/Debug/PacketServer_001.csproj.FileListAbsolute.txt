@@ -1,0 +1,5 @@
+E:\workspace\winform\PacketServer_001\PacketServer_001\obj\Debug\PacketServer_001.csprojResolveAssemblyReference.cache
+E:\workspace\winform\PacketServer_001\PacketServer_001\bin\Debug\PacketServer_001.dll
+E:\workspace\winform\PacketServer_001\PacketServer_001\bin\Debug\PacketServer_001.pdb
+E:\workspace\winform\PacketServer_001\PacketServer_001\obj\Debug\PacketServer_001.dll
+E:\workspace\winform\PacketServer_001\PacketServer_001\obj\Debug\PacketServer_001.pdb

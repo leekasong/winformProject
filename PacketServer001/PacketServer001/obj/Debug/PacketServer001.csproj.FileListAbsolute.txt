@@ -1,0 +1,11 @@
+E:\workspace\winform\PacketServer001\PacketServer001\bin\Debug\PacketServer001.exe.config
+E:\workspace\winform\PacketServer001\PacketServer001\bin\Debug\PacketServer001.exe
+E:\workspace\winform\PacketServer001\PacketServer001\bin\Debug\PacketServer001.pdb
+E:\workspace\winform\PacketServer001\PacketServer001\obj\Debug\PacketServer001.csprojResolveAssemblyReference.cache
+E:\workspace\winform\PacketServer001\PacketServer001\obj\Debug\PacketServer001.Form1.resources
+E:\workspace\winform\PacketServer001\PacketServer001\obj\Debug\PacketServer001.Properties.Resources.resources
+E:\workspace\winform\PacketServer001\PacketServer001\obj\Debug\PacketServer001.csproj.GenerateResource.Cache
+E:\workspace\winform\PacketServer001\PacketServer001\obj\Debug\PacketServer001.exe
+E:\workspace\winform\PacketServer001\PacketServer001\obj\Debug\PacketServer001.pdb
+E:\workspace\winform\PacketServer001\PacketServer001\bin\Debug\socketProtocol_Library2.dll
+E:\workspace\winform\PacketServer001\PacketServer001\bin\Debug\socketProtocol_Library2.pdb

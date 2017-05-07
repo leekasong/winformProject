@@ -1,0 +1,9 @@
+E:\workspace\winform\ChatProgram\ChatProgram\bin\Debug\ChatProgram.exe.config
+E:\workspace\winform\ChatProgram\ChatProgram\bin\Debug\ChatProgram.exe
+E:\workspace\winform\ChatProgram\ChatProgram\bin\Debug\ChatProgram.pdb
+E:\workspace\winform\ChatProgram\ChatProgram\obj\Debug\ChatProgram.csprojResolveAssemblyReference.cache
+E:\workspace\winform\ChatProgram\ChatProgram\obj\Debug\ChatProgram.Form1.resources
+E:\workspace\winform\ChatProgram\ChatProgram\obj\Debug\ChatProgram.Properties.Resources.resources
+E:\workspace\winform\ChatProgram\ChatProgram\obj\Debug\ChatProgram.csproj.GenerateResource.Cache
+E:\workspace\winform\ChatProgram\ChatProgram\obj\Debug\ChatProgram.exe
+E:\workspace\winform\ChatProgram\ChatProgram\obj\Debug\ChatProgram.pdb

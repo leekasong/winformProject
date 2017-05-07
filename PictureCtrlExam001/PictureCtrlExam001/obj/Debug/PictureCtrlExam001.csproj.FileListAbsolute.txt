@@ -1,0 +1,9 @@
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\bin\Debug\PictureCtrlExam001.exe.config
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\bin\Debug\PictureCtrlExam001.exe
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\bin\Debug\PictureCtrlExam001.pdb
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\obj\Debug\PictureCtrlExam001.csprojResolveAssemblyReference.cache
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\obj\Debug\PictureCtrlExam001.Form1.resources
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\obj\Debug\PictureCtrlExam001.Properties.Resources.resources
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\obj\Debug\PictureCtrlExam001.csproj.GenerateResource.Cache
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\obj\Debug\PictureCtrlExam001.exe
+E:\workspace\winform\PictureCtrlExam001\PictureCtrlExam001\obj\Debug\PictureCtrlExam001.pdb

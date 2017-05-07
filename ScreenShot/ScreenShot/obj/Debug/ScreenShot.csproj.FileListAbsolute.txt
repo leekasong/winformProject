@@ -1,0 +1,11 @@
+E:\workspace\winform\ScreenShot\ScreenShot\bin\Debug\ScreenShot.exe.config
+E:\workspace\winform\ScreenShot\ScreenShot\bin\Debug\ScreenShot.exe
+E:\workspace\winform\ScreenShot\ScreenShot\bin\Debug\ScreenShot.pdb
+E:\workspace\winform\ScreenShot\ScreenShot\obj\Debug\ScreenShot.csprojResolveAssemblyReference.cache
+E:\workspace\winform\ScreenShot\ScreenShot\obj\Debug\ScreenShot.Form1.resources
+E:\workspace\winform\ScreenShot\ScreenShot\obj\Debug\ScreenShot.Properties.Resources.resources
+E:\workspace\winform\ScreenShot\ScreenShot\obj\Debug\ScreenShot.csproj.GenerateResource.Cache
+E:\workspace\winform\ScreenShot\ScreenShot\obj\Debug\ScreenShot.exe
+E:\workspace\winform\ScreenShot\ScreenShot\obj\Debug\ScreenShot.pdb
+E:\workspace\winform\ScreenShot\ScreenShot\bin\Debug\TetrisPacket.dll
+E:\workspace\winform\ScreenShot\ScreenShot\bin\Debug\TetrisPacket.pdb

@@ -1,0 +1,13 @@
+E:\workspace\winform\MusicServer\MusicServer\bin\Debug\MusicServer.exe.config
+E:\workspace\winform\MusicServer\MusicServer\bin\Debug\MusicServer.exe
+E:\workspace\winform\MusicServer\MusicServer\bin\Debug\MusicServer.pdb
+E:\workspace\winform\MusicServer\MusicServer\bin\Debug\musicPacket.dll
+E:\workspace\winform\MusicServer\MusicServer\bin\Debug\musicPacket.pdb
+E:\workspace\winform\MusicServer\MusicServer\bin\Debug\Interop.Shell32.dll
+E:\workspace\winform\MusicServer\MusicServer\obj\Debug\Interop.Shell32.dll
+E:\workspace\winform\MusicServer\MusicServer\obj\Debug\MusicServer.csproj.ResolveComReference.cache
+E:\workspace\winform\MusicServer\MusicServer\obj\Debug\MusicServer.Form1.resources
+E:\workspace\winform\MusicServer\MusicServer\obj\Debug\MusicServer.Properties.Resources.resources
+E:\workspace\winform\MusicServer\MusicServer\obj\Debug\MusicServer.csproj.GenerateResource.Cache
+E:\workspace\winform\MusicServer\MusicServer\obj\Debug\MusicServer.exe
+E:\workspace\winform\MusicServer\MusicServer\obj\Debug\MusicServer.pdb

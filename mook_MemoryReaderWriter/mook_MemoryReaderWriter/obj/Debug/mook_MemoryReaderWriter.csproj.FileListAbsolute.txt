@@ -1,0 +1,9 @@
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\bin\Debug\mook_MemoryReaderWriter.exe.config
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\bin\Debug\mook_MemoryReaderWriter.exe
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\bin\Debug\mook_MemoryReaderWriter.pdb
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\obj\Debug\mook_MemoryReaderWriter.csprojResolveAssemblyReference.cache
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\obj\Debug\mook_MemoryReaderWriter.Form1.resources
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\obj\Debug\mook_MemoryReaderWriter.Properties.Resources.resources
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\obj\Debug\mook_MemoryReaderWriter.csproj.GenerateResource.Cache
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\obj\Debug\mook_MemoryReaderWriter.exe
+E:\workspace\winform\mook_MemoryReaderWriter\mook_MemoryReaderWriter\obj\Debug\mook_MemoryReaderWriter.pdb

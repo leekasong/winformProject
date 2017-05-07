@@ -1,0 +1,9 @@
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\bin\Debug\FileReaderWriter.exe.config
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\bin\Debug\FileReaderWriter.exe
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\bin\Debug\FileReaderWriter.pdb
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\obj\Debug\FileReaderWriter.csprojResolveAssemblyReference.cache
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\obj\Debug\FileReaderWriter.Form1.resources
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\obj\Debug\FileReaderWriter.Properties.Resources.resources
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\obj\Debug\FileReaderWriter.csproj.GenerateResource.Cache
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\obj\Debug\FileReaderWriter.exe
+E:\workspace\winform\FileReaderWriter\FileReaderWriter\obj\Debug\FileReaderWriter.pdb

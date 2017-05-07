@@ -1,0 +1,11 @@
+E:\workspace\winform\TestSS001\TestSS001\bin\Debug\TestSS001.exe.config
+E:\workspace\winform\TestSS001\TestSS001\bin\Debug\TestSS001.exe
+E:\workspace\winform\TestSS001\TestSS001\bin\Debug\TestSS001.pdb
+E:\workspace\winform\TestSS001\TestSS001\bin\Debug\TetrisPacket.dll
+E:\workspace\winform\TestSS001\TestSS001\bin\Debug\TetrisPacket.pdb
+E:\workspace\winform\TestSS001\TestSS001\obj\Debug\TestSS001.Form1.resources
+E:\workspace\winform\TestSS001\TestSS001\obj\Debug\TestSS001.Properties.Resources.resources
+E:\workspace\winform\TestSS001\TestSS001\obj\Debug\TestSS001.csproj.GenerateResource.Cache
+E:\workspace\winform\TestSS001\TestSS001\obj\Debug\TestSS001.exe
+E:\workspace\winform\TestSS001\TestSS001\obj\Debug\TestSS001.pdb
+E:\workspace\winform\TestSS001\TestSS001\obj\Debug\TestSS001.csprojResolveAssemblyReference.cache

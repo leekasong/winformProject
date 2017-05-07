@@ -1,0 +1,9 @@
+E:\workspace\winform\mook_FileReader\mook_FileReader\bin\Debug\mook_FileReader.exe.config
+E:\workspace\winform\mook_FileReader\mook_FileReader\bin\Debug\mook_FileReader.exe
+E:\workspace\winform\mook_FileReader\mook_FileReader\bin\Debug\mook_FileReader.pdb
+E:\workspace\winform\mook_FileReader\mook_FileReader\obj\Debug\mook_FileReader.csprojResolveAssemblyReference.cache
+E:\workspace\winform\mook_FileReader\mook_FileReader\obj\Debug\mook_FileReader.Form1.resources
+E:\workspace\winform\mook_FileReader\mook_FileReader\obj\Debug\mook_FileReader.Properties.Resources.resources
+E:\workspace\winform\mook_FileReader\mook_FileReader\obj\Debug\mook_FileReader.csproj.GenerateResource.Cache
+E:\workspace\winform\mook_FileReader\mook_FileReader\obj\Debug\mook_FileReader.exe
+E:\workspace\winform\mook_FileReader\mook_FileReader\obj\Debug\mook_FileReader.pdb

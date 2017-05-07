@@ -1,0 +1,10 @@
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\bin\Debug\mook_FileCopyMove.exe.config
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\bin\Debug\mook_FileCopyMove.exe
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\bin\Debug\mook_FileCopyMove.pdb
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\obj\Debug\mook_FileCopyMove.csprojResolveAssemblyReference.cache
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\obj\Debug\mook_FileCopyMove.FileLoad.resources
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\obj\Debug\mook_FileCopyMove.Form1.resources
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\obj\Debug\mook_FileCopyMove.Properties.Resources.resources
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\obj\Debug\mook_FileCopyMove.csproj.GenerateResource.Cache
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\obj\Debug\mook_FileCopyMove.exe
+E:\workspace\winform\mook_FileCopyMove\mook_FileCopyMove\obj\Debug\mook_FileCopyMove.pdb

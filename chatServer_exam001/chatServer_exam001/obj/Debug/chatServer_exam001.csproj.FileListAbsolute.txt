@@ -1,0 +1,9 @@
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\bin\Debug\chatServer_exam001.exe.config
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\bin\Debug\chatServer_exam001.exe
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\bin\Debug\chatServer_exam001.pdb
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\obj\Debug\chatServer_exam001.csprojResolveAssemblyReference.cache
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\obj\Debug\chatServer_exam001.Form1.resources
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\obj\Debug\chatServer_exam001.Properties.Resources.resources
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\obj\Debug\chatServer_exam001.csproj.GenerateResource.Cache
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\obj\Debug\chatServer_exam001.exe
+E:\workspace\winform\chatServer_exam001\chatServer_exam001\obj\Debug\chatServer_exam001.pdb

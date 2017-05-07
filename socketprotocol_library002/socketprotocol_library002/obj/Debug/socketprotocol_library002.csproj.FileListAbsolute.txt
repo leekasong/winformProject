@@ -1,0 +1,5 @@
+E:\workspace\winform\socketprotocol_library002\socketprotocol_library002\bin\Debug\socketprotocol_library002.dll
+E:\workspace\winform\socketprotocol_library002\socketprotocol_library002\bin\Debug\socketprotocol_library002.pdb
+E:\workspace\winform\socketprotocol_library002\socketprotocol_library002\obj\Debug\socketprotocol_library002.csprojResolveAssemblyReference.cache
+E:\workspace\winform\socketprotocol_library002\socketprotocol_library002\obj\Debug\socketprotocol_library002.dll
+E:\workspace\winform\socketprotocol_library002\socketprotocol_library002\obj\Debug\socketprotocol_library002.pdb

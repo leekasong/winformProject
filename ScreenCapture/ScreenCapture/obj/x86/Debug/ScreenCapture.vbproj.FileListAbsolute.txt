@@ -1,0 +1,21 @@
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.xml
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.ScreenCapture.resources
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Resources.resources
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.exe
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.xml
+c:\users\bjays\documents\visual studio 2010\Projects\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.pdb
+E:\workspace\winform\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+E:\workspace\winform\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+E:\workspace\winform\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.xml
+E:\workspace\winform\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.vbprojResolveAssemblyReference.cache
+E:\workspace\winform\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.ScreenCapture.resources
+E:\workspace\winform\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.Resources.resources
+E:\workspace\winform\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.vbproj.GenerateResource.Cache
+E:\workspace\winform\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.exe
+E:\workspace\winform\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.xml
+E:\workspace\winform\ScreenCapture\ScreenCapture\obj\x86\Debug\ScreenCapture.pdb

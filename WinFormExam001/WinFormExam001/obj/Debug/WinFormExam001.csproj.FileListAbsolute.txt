@@ -1,0 +1,8 @@
+E:\winform\WinFormExam001\WinFormExam001\bin\Debug\WinFormExam001.exe.config
+E:\winform\WinFormExam001\WinFormExam001\bin\Debug\WinFormExam001.exe
+E:\winform\WinFormExam001\WinFormExam001\bin\Debug\WinFormExam001.pdb
+E:\winform\WinFormExam001\WinFormExam001\obj\Debug\WinFormExam001.csprojResolveAssemblyReference.cache
+E:\winform\WinFormExam001\WinFormExam001\obj\Debug\WinFormExam001.Properties.Resources.resources
+E:\winform\WinFormExam001\WinFormExam001\obj\Debug\WinFormExam001.csproj.GenerateResource.Cache
+E:\winform\WinFormExam001\WinFormExam001\obj\Debug\WinFormExam001.exe
+E:\winform\WinFormExam001\WinFormExam001\obj\Debug\WinFormExam001.pdb
